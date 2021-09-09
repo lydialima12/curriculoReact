@@ -1,0 +1,9 @@
+.meuTexto {
+    color: rgb(136, 0, 118);
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,9 @@
+h3 {
+    color: rebeccapurple;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

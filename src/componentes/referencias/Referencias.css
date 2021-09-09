@@ -1,0 +1,9 @@
+.meuTextRef {
+    color: tomato;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
