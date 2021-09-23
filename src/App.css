@@ -1,14 +1,15 @@
 body{
-  display: flex;
+  /* display: flex;
   justify-content: center;
-  align-items: center;
-  margin: 50px;
+  align-items: center; */
+  margin-top: 0px;
+  padding-top: 0;
 }
 
 .App {
   background-color: bisque;
-  height: 500px;
-  width: 500px;
+  /*height: 500px;
+  width: 500px;*/
   display: flex;
   justify-content: center;
   align-items: center;

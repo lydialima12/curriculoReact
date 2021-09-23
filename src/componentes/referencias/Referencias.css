@@ -1,5 +1,20 @@
-.meuTextRef {
-    color: tomato;
+.divBotao{
+    margin: 30px 0px 0px 30px; 
+}
+
+.voltar {
+    background-color: rgb(206, 88, 34);
+    height: 44px;
+    width: 100px;
+    margin: 3px;
+    box-shadow: none;
+    border-radius: 25px;
+    border: none;
+    color: white;
+}
+
+.link {
+    color: white;
 }
 
 .text {
@@ -7,3 +22,39 @@
     justify-content: center;
     align-items: center;
 }   
+
+.referencia {
+    background-color: rgb(237, 215, 255);
+    padding: 30px;
+    width: 350px;
+    border-radius: 20px;
+    margin: 30px 15px;
+} 
+
+.nome {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.contato {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    color: rgb(0, 0, 0);
+}
+
+.descricao {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    color: black;
+}
+
+.dadosReferencias {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    color: black;
+}
