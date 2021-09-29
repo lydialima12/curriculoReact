@@ -1,9 +1,9 @@
 import React from "react";
-import "./Experiencia.css";
+import "./Portfolio.css";
 import { Link } from "react-router-dom";
 
 
-export function Experiencia() {
+function Portfolio() {
   return (
     <main>
       <section className="divBotao">
@@ -13,9 +13,11 @@ export function Experiencia() {
           </Link>
         </button>
       </section>
-      <header className="text">
-        <h4 className="meuTexto">Este é o componente "Experiência"</h4>
+      <header>
+        <p className="texto">Este é o componente Portfólio</p>
       </header>
     </main>
   );
 }
+
+export default Portfolio;

@@ -8,3 +8,20 @@
     justify-content: center;
     align-items: center;
 }
+
+/* .divBotao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+/* 
+.botaoEnviar {
+    width: 400px;
+    height: 44px;
+    background-color: rebeccapurple;
+    color: white;
+    border-radius: 25px;
+    box-shadow: none;
+    border: none;
+    cursor: pointer;
+} */

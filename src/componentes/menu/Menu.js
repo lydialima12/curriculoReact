@@ -5,7 +5,7 @@ export function Menu() {
     return (
         <main>
             <header className="menu">
-                <p className="alicia">Alicia fotografia</p>
+                <p className="alicia">Lydia Designer</p>
             </header>
         </main>
     )

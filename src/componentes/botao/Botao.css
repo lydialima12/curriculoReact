@@ -1,0 +1,18 @@
+.botao {
+    background-color: rebeccapurple;
+    height: 44px;
+    width: 100px;
+    margin: 3px;
+    box-shadow: none;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    cursor: pointer !important;
+    margin-top: 15px;
+
+  }
+  
+  .botao:hover {
+    background-color: rgb(57, 16, 99);
+  }
+  

@@ -1,0 +1,10 @@
+.texto {
+    font-size: 25px;
+    color: rebeccapurple;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

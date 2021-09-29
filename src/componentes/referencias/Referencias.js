@@ -20,19 +20,19 @@ export function Referencias() {
                 </header>
                 <section className="dadosReferencias">
                     <div className="referencia">
-                        <p className="nome">Antony Freitas</p>
-                        <p className="contato">(81) 9 9098-0900</p>
-                        <p className="descricao">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <p className="nome">Luigi Sousa</p>
+                        <p className="contato">(81) 9 9098-0500</p>
+                        <p className="descricao">Professor universitário, fotógrafo e um eterno aprendiz da Ciência da Computação.</p>
                     </div>
                     <div className="referencia">
-                        <p className="nome">Antony Freitas</p>
+                        <p className="nome">Paula Ferreira</p>
                         <p className="contato">(81) 9 9098-0900</p>
-                        <p className="descricao">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <p className="descricao">Designer da experência do usuário, com ênfase em dispositivos móveis.</p>
                     </div>
                     <div className="referencia">
-                        <p className="nome">Antony Freitas</p>
-                        <p className="contato">(81) 9 9098-0900</p>
-                        <p className="descricao">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <p className="nome">Bartolomeu Lima</p>
+                        <p className="contato">(81) 9 9258-0900</p>
+                        <p className="descricao">Mestrando em Engenharia da Computação e professor da UFPE.</p>
                     </div>
                 </section>
             </section>
